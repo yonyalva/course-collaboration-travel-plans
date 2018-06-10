@@ -1,4 +1,4 @@
-# Memory Game Project
+# Memory Game
 
 ## Table of Contents
 
@@ -29,6 +29,7 @@ https://fonts.googleapis.com/css?family=Coda
 https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
 
 * Styles
+
 css/app.css
 
 * JavaScrips
